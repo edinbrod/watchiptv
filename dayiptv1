@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,##### BALKAN #####
+http://163.172.39.167:25461/live/DonTV/0uauPRKey3/4.ts
+#EXTINF:-1,Balkan - Select 1
+http://163.172.39.167:25461/live/DonTV/0uauPRKey3/2.ts
+#EXTINF:-1,Balkan - Select 2
+http://163.172.39.167:25461/live/DonTV/0uauPRKey3/7.ts
+#EXTINF:-1,Balkan - Select 3
+http://163.172.39.167:25461/live/DonTV/0uauPRKey3/13.ts
+#EXTINF:-1,Balkan - Classic
+http://163.172.39.167:25461/live/DonTV/0uauPRKey3/50.ts
+#EXTINF:-1,Balkan - Film
+http://163.172.39.167:25461/live/DonTV/0uauPRKey3/8.ts
+#EXTINF:-1,Balkan - Horor
+http://163.172.39.167:25461/live/DonTV/0uauPRKey3/14.ts
+#EXTINF:-1,Balkan - Serija
+http://163.172.39.167:25461/live/DonTV/0uauPRKey3/17.ts
+#EXTINF:-1,Balkan - Kids
+http://163.172.39.167:25461/live/DonTV/0uauPRKey3/6.ts
+#EXTINF:-1,Balkan - Docu
+http://163.172.39.167:25461/live/DonTV/0uauPRKey3/11.ts
+#EXTINF:-1,Balkan - Music
+http://163.172.39.167:25461/live/DonTV/0uauPRKey3/5.ts
+#EXTINF:-1,Balkan - Folk
+http://163.172.39.167:25461/live/DonTV/0uauPRKey3/3.ts
+#EXTINF:-1,Balkan -Pop,Rock & Dance
+http://163.172.39.167:25461/live/DonTV/0uauPRKey3/47.ts
+#EXTINF:-1,Balkan - Fun
+http://163.172.39.167:25461/live/DonTV/0uauPRKey3/15.ts
