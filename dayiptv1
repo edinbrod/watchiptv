@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,BHT1
-http://163.172.21.128:25461/live/test/test/9.m3u8
-#EXTINF:-1,BHT1 HD
-http://163.172.21.128:25461/live/test/test/927.m3u8
-#EXTINF:-1,FTV
-http://163.172.21.128:25461/live/test/test/10.m3u8
-#EXTINF:-1,RTRS
-http://163.172.21.128:25461/live/test/test/26.m3u8
